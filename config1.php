@@ -3,7 +3,7 @@
 // Local configuration
 define('DATABASE_HOSTNAME', 'localhost');
 define('DATABASE_USERNAME', 'root');
-define('DATABASE_PASSWORD', 'qwerty');
+define('DATABASE_PASSWORD', 'root');
 define('DATABASE_DATABASE', 'blog');
 define('SMTP_AUTH_PASSWORD', '');
 define('SMTP_AUTH_USERNAME', '');
